@@ -1,0 +1,11 @@
+Login de Liberação
+Login estilo caixa eletronico, para liberação
+de alguma coisa.
+
+Login Simples
+Login simplificado, para liberar um Input
+tipo mudanças de senha.
+
+Login de Acesso
+Login credencial, ficar logado ao sistema
+estilo 'Credencial' para vagar pelo sistema.
